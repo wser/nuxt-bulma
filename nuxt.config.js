@@ -18,7 +18,7 @@ module.exports = {
     ]
   },
   generate: {
-    dir: 'doc'
+    dir: 'docs'
   },
   /*
   ** Customize the progress bar color
